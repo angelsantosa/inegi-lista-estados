@@ -2,10 +2,6 @@
 
 Lista en JSON de estados, municipios, regiones, colonias y códigos postales de todo México.
 
-Compilación creada sin fines de lucro, sugiero fuertemente filtrar solo los datos que se necesitan para un json final, pueden usar [JSPath](http://www.jsonquerytool.com/#/JSPath) o similares.
-
-Dona una chela aca http://paypal.me/angelsantosa
-
 # Documentación
 
 Las ids y 'namings' son oficiales de INEGI Facil, ninguno fue alterado.
